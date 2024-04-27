@@ -32,7 +32,7 @@ Dalam keseluruhan, penggunaan pola Controller-Service-Repository dapat meningkat
 
 ```json
 {
-    "email": "hafis.gov@gmail.com",
+    "email": "py",
     "password": "12345678"
 }
 ```
@@ -64,7 +64,7 @@ Dalam keseluruhan, penggunaan pola Controller-Service-Repository dapat meningkat
 
 ```json
 {
-    "full_name": "HafizR",
+    "full_name": "yoga",
     "email": "test@testing.com",
     "password": "123456"
 }
